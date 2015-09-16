@@ -1,0 +1,4 @@
+001-0966b23	TKD 20-1258b	buddhist/K-koreana/20-tif/1200-1299/20_1258_B.TIF
+001-0966c14	TKD 20-1258c	buddhist/K-koreana/20-tif/1200-1299/20_1258_C.TIF
+001-0966c00	T 001-0966c	buddhist/T-taisho/T14/09/T14-0966.png
+001-0967a00	T 001-0967a	buddhist/T-taisho/T14/09/T14-0967.png
