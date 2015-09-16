@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說孫多耶致經
+#+DATE: 2015-08-30 20:13:00.949036
+#+PROPERTY: JUAN 0
